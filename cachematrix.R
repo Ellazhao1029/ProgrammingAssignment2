@@ -4,6 +4,7 @@
 ## and there may be some benefit to caching the inverse of a matrix 
 ## rather than compute it repeatedly
 
+
 ## For example:
 ## > m<-makeCacheMatrix(matrix((1:4),2,2))
 ## > m$get()
